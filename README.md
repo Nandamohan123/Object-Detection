@@ -15,13 +15,6 @@ This is a web-based AI object detection application that runs directly in your b
 ## 🖼️ Preview
 <a href="https://ibb.co/JCNgfJr"><img src="https://i.ibb.co/3kwQDZS/preview-combined.jpg" alt="preview-combined" width="100%"></a>
 
----
-
-## 💪 Try It
-Not convinced yet? Try it out yourself here:  
-👉 [Live Demo](https://woody.pizza/tensorflow/object-detection/)
-
----
 
 ## 🌐 Browser Support
 The app works on most modern browsers. Below are the tested ones:
